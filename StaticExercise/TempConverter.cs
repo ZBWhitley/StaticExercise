@@ -11,7 +11,7 @@ namespace StaticExercise
         
         public static double FahrenheitToCelsius(double v) 
         {         
-            return (v - 32) / 1.8;
+            return (v - 32) / 1.8000;
         }
 
         public static double CelsiusToFahrenheit(double v) 
